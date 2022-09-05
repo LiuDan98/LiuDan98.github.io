@@ -1,0 +1,94 @@
+.firstbody {
+	margin-top: 25px;
+}
+
+.title {
+	text-align:center;
+	font-family:"Georgia";
+	font-size:35px;
+	margin-top: 5px;
+	margin-bottom: 1px;
+}
+
+.divcss1 {
+	width:350px;
+	height:100x;
+	border: 1px solid black;
+	left: 0;
+	right:0;
+	margin:auto;
+}
+.divpic {
+	text-align:center;
+}
+
+.buttonmain {
+  	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	text-decoration:none;
+  	text-align: center;
+	margin-bottom: 15px;
+}
+
+.buttonmain li {
+  	display: inline;	
+}
+
+.buttonlist {
+	font-family:"Georgia";
+	font-style:italic;
+	text-decoration:none;
+	color:grey;
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size:3px;
+}
+.buttonlist:hover {
+	color:black;
+}
+.buttonlisthome {
+	font-family:"Georgia";
+	font-style:italic;
+	text-decoration:none;
+	color:black;
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size:3px;
+}
+.picture {
+	margin-top=100px;
+}
+
+.p1 {
+	width: 400px;
+	height: 400px;
+	margin-top: 60px;
+}
+.p2 {
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+}
+.p3 {
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+}
+.lastpart {
+  	margin-top: 30px;
+	text-align: center;
+}
+.iconpart {
+  	margin-top: 20px;
+	text-align: center;
+}
+.iconp {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.foot {
+	font-family:"Georgia";
+	font-style:italic;
+	font-size:1px;
+}
