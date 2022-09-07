@@ -1,3 +1,9 @@
+.first {
+	text-align:center;
+	margin: 0 auto;
+	width:500px;
+}
+
 .firstbody {
 	margin-top: 25px;
 }
@@ -17,7 +23,9 @@
 	left: 0;
 	right:0;
 	margin:auto;
+	position:relative;
 }
+
 .divpic {
 	text-align:center;
 }
@@ -44,9 +52,11 @@
 	margin-right: 5px;
 	font-size:8px;
 }
+
 .buttonlist:hover {
 	color:black;
 }
+
 .buttonlisthome {
 	font-family:"Georgia";
 	font-style:italic;
@@ -56,6 +66,7 @@
 	margin-right: 5px;
 	font-size:8px;
 }
+
 .picture {
 	margin-top=100px;
 }
@@ -64,30 +75,37 @@
 	width: 400px;
 	height: 400px;
 	margin-top: 60px;
+	object-fit: cover;
+	text-align: center;
 }
+
 .p2 {
 	width: 400px;
 	height: 400px;
 	object-fit: cover;
+	text-align: center;
 }
+
 .p3 {
 	width: 400px;
 	height: 400px;
 	object-fit: cover;
-}
-.lastpart {
-  	margin-top: 30px;
 	text-align: center;
 }
+
 .iconpart {
   	margin-top: 20px;
 	text-align: center;
 }
+
 .iconp {
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
 .foot {
+	margin-top: 30px;
+	text-align: center;
 	font-family:"Georgia";
 	font-style:italic;
 	font-size:10px;
